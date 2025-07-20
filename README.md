@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-# Project Description :
+# Project Description 
 
 So here comes my 3rd task, A real-time collaborative document editor developed with **React**, **Tailwind CSS**, **Node.js**, **Express**, **Socket.IO**, and **MongoDB**. This project was worked on as an internship project submission, showcasing full-stack web development and real-time communication ability.
 
@@ -44,7 +44,7 @@ The **Collaborative Editor** enables multiple users to edit a single document in
 
 -  Responsive new-age UI with Tailwind CSS.
 
-# Technologies Used :
+# Technologies Used 
 
  *Backend* :
  
@@ -70,7 +70,7 @@ The **Collaborative Editor** enables multiple users to edit a single document in
 
 `Functional components with hooks`
 
-# Installation Instructions :
+# Installation Instructions 
 
  Clone the repository
 
@@ -113,7 +113,7 @@ The frontend will be running on `http://localhost:3000`
 
 NOTE : Ensure both frontend and backend are running for complete functionality.
 
-# How It Works :
+# How It Works 
 
 This is a collaborative editor that utilizes a combination of React, Socket.IO, and MongoDB to facilitate real-time collaboration among users.
 
