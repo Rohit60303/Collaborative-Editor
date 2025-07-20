@@ -159,3 +159,5 @@ This project showcases my capability to develop a complete full-stack real-time 
 
 # OUTPUT
 
+<img width="1920" height="1140" alt="Image" src="https://github.com/user-attachments/assets/58afa93f-b3c7-4590-b4d4-ff92f3930fcf" />
+
