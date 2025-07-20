@@ -168,3 +168,5 @@ This project showcases my capability to develop a complete full-stack real-time 
 <img width="1920" height="1140" alt="Image" src="https://github.com/user-attachments/assets/d5ac43b4-4a84-4b61-963c-196b84a125df" />
 
 <img width="1920" height="1140" alt="Image" src="https://github.com/user-attachments/assets/d5ac43b4-4a84-4b61-963c-196b84a125df" />
+
+<img width="1920" height="1140" alt="Image" src="https://github.com/user-attachments/assets/956fa575-7c29-4f4c-8537-c7239ee4aabb" />
