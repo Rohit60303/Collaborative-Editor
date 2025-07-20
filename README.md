@@ -119,27 +119,27 @@ This is a collaborative editor that utilizes a combination of React, Socket.IO, 
 
 1. User opens the app : 
 
-The user makes a request to the React frontend at http://localhost:3000, which establishes a connection to the backend server via WebSocket.
+      The user makes a request to the React frontend at http://localhost:3000, which establishes a connection to the backend server via WebSocket.
 
 2. User joins or creates a document :
 
-When a user provides a document ID, the backend queries if the document exists in MongoDB. If it does not exist, it gets created.
+      When a user provides a document ID, the backend queries if the document exists in MongoDB. If it does not exist, it gets created.
 
 3. Real-time connection using Socket.IO :
 
-The backend connects all users to a "room" through the document ID using Socket.IO. When a user types, an update is broadcast to others in real-time.
+      The backend connects all users to a "room" through the document ID using Socket.IO. When a user types, an update is broadcast to others in real-time.
 
 4. Live collaboration :
 
-Changes to text are emitted through text-operation events. The server maintains the document content and broadcasts the changes to all users within the same room.
+      Changes to text are emitted through text-operation events. The server maintains the document content and broadcasts the changes to all users within the same room.
 
 5. Auto-save to MongoDB :
 
-The server stores document changes and version numbers in MongoDB. The collaborators are also tracked and stored.
+      The server stores document changes and version numbers in MongoDB. The collaborators are also tracked and stored.
 
 6. Everyone remains in sync :
 
-Other users get up-to-date content and keep working without issues, providing smooth, synchronized editing.
+      Other users get up-to-date content and keep working without issues, providing smooth, synchronized editing.
 
 *This project helped me learn* :
 
