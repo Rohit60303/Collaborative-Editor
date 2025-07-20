@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-# *Project Description* :
+# Project Description :
 
 So here comes my 3rd task, A real-time collaborative document editor developed with **React**, **Tailwind CSS**, **Node.js**, **Express**, **Socket.IO**, and **MongoDB**. This project was worked on as an internship project submission, showcasing full-stack web development and real-time communication ability.
 
